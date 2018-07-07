@@ -1,0 +1,7 @@
+F:\jia_developement\My Code\DBMaster for standard\bin\Release\DB Manager.dll
+F:\jia_developement\My Code\DBMaster for standard\bin\Release\DB Manager.pdb
+F:\jia_developement\My Code\DBMaster for standard\bin\Release\DB Security.dll
+F:\jia_developement\My Code\DBMaster for standard\bin\Release\DB Security.pdb
+F:\jia_developement\My Code\DBMaster for standard\obj\x86\Release\DB Manager.csprojResolveAssemblyReference.cache
+F:\jia_developement\My Code\DBMaster for standard\obj\x86\Release\DB Manager.dll
+F:\jia_developement\My Code\DBMaster for standard\obj\x86\Release\DB Manager.pdb

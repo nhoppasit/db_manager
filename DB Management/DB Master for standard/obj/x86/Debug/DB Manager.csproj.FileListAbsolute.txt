@@ -1,0 +1,28 @@
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\bin\Debug\DB Manager.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\bin\Debug\DB Manager.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\bin\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\bin\Debug\DB Security.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\obj\x86\Debug\DB Manager.csprojResolveAssemblyReference.cache
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\obj\x86\Debug\DB Manager.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DBMaster\obj\x86\Debug\DB Manager.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.csprojResolveAssemblyReference.cache
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.dll
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.dll
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.csprojResolveAssemblyReference.cache
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.dll
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.pdb
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.dll
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Manager.pdb
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.dll
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\bin\Debug\DB Security.pdb
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.csprojResolveAssemblyReference.cache
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.dll
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DBMaster\obj\x86\Debug\DB Manager.pdb

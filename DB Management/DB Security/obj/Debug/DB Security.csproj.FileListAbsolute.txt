@@ -1,0 +1,23 @@
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DB Security\bin\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DB Security\bin\Debug\DB Security.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DB Security\obj\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk\DB Security\obj\Debug\DB Security.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.pdb
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.dll
+F:\ROBO\Basket Machine\DEVELOP\SCR\KIOSK\BO23 Kiosk\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.dll
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.dll
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.pdb
+D:\DEV\KIOSK\BO23 Kiosk Demo\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.csprojResolveAssemblyReference.cache
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.dll
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DB Security\bin\Debug\DB Security.pdb
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.dll
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.pdb
+D:\DEV\SCR\BHM KIOSK\BO23 Kiosk Demo\DB Security\obj\Debug\DB Security.csprojResolveAssemblyReference.cache
+F:\jia_developement\My Code\DB Security\bin\Debug\DB Security.dll
+F:\jia_developement\My Code\DB Security\bin\Debug\DB Security.pdb
+F:\jia_developement\My Code\DB Security\obj\Debug\DB Security.csprojResolveAssemblyReference.cache
+F:\jia_developement\My Code\DB Security\obj\Debug\DB Security.dll
+F:\jia_developement\My Code\DB Security\obj\Debug\DB Security.pdb
