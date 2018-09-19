@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scheduled Weed Elimination">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="203.150.225.103:kasetfms">
+          <Created>2018-09-18T19:39:03.676892+07:00</Created>
+          <Type>SQL</Type>
+          <Server>203.150.225.103</Server>
+          <UserName>kasetfms</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="NHOPPASIT-PC2\SQLSERVER_2014:NHOPPASIT-PC2\Nhoppasit-PC2">
+          <Created>2018-09-18T18:25:05.3564916+07:00</Created>
+          <Type>SQL</Type>
+          <Server>NHOPPASIT-PC2\SQLSERVER_2014</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>DB_TPM2018</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="run sp_ScheduledActivity_RFID_search.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run sp_ScheduledActivity_RFID_search.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledActivityRFID_DeleteAll.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledActivityRFID_DeleteAll.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledActivityRFID_SaveATag.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledActivityRFID_SaveATag.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledWeedElimination_Activate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledWeedElimination_Activate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledWeedElimination_Deactivate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledWeedElimination_Deactivate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledWeedElimination_Delete.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledWeedElimination_Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledWeedElimination_Save.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledWeedElimination_Save.sql</FullPath>
+        </FileNode>
+        <FileNode Name="run Sp_ScheduledWeedElimination_Search.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>run Sp_ScheduledWeedElimination_Search.sql</FullPath>
+        </FileNode>
+        <FileNode Name="select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_ScheduledActivity_RFID_DeleteAll.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>sp_ScheduledActivity_RFID_DeleteAll.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_ScheduledActivity_RFID_search.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>sp_ScheduledActivity_RFID_search.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledActivityRFID_SaveATag.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>Sp_ScheduledActivityRFID_SaveATag.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledWeedElimination_Activate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>Sp_ScheduledWeedElimination_Activate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledWeedElimination_Deactivate.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>Sp_ScheduledWeedElimination_Deactivate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledWeedElimination_Delete.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>Sp_ScheduledWeedElimination_Delete.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledWeedElimination_Save.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NHOPPASIT-PC2\SQLSERVER_2014:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NHOPPASIT-PC2\SQLSERVER_2014</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Sp_ScheduledWeedElimination_Save.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Sp_ScheduledWeedElimination_Search.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>Sp_ScheduledWeedElimination_Search.sql</FullPath>
+        </FileNode>
+        <FileNode Name="table TB_SCHEDULED_WEED_ELIMINATION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:203.150.225.103:False:kasetfms</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>203.150.225.103</AssociatedConnSrvName>
+          <AssociatedConnUserName>kasetfms</AssociatedConnUserName>
+          <FullPath>table TB_SCHEDULED_WEED_ELIMINATION.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
